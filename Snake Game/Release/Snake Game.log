@@ -1,0 +1,28 @@
+﻿  stdafx.cpp
+  Snake Game.cpp
+Snake Game.cpp(47): warning C4018: '<': signed/unsigned mismatch
+Snake Game.cpp(52): warning C4018: '<': signed/unsigned mismatch
+Snake Game.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snake Game.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snake Game.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snake Game.cpp(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snake Game.cpp(116): warning C4018: '<': signed/unsigned mismatch
+Snake Game.cpp(128): warning C4018: '<': signed/unsigned mismatch
+Snake Game.cpp(164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snake Game.cpp(208): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snake Game.cpp(210): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snake Game.cpp(217): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snake Game.cpp(245): warning C4018: '<': signed/unsigned mismatch
+Snake Game.cpp(252): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Snake Game.cpp(349): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Snake Game.cpp(358): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+Snake Game.cpp(392): warning C4018: '<': signed/unsigned mismatch
+Snake Game.cpp(397): warning C4018: '<': signed/unsigned mismatch
+Snake Game.cpp(402): warning C4018: '<': signed/unsigned mismatch
+Snake Game.cpp(408): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snake Game.cpp(411): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Snake Game.cpp(414): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 312 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snake Game.vcxproj -> C:\Users\Stefan\source\repos\Snake Game\Release\Snake Game.exe
